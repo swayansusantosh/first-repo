@@ -1,4 +1,4 @@
 # first-repo
 This is my first Git Repository.
 <br>
-Author - Swayansu
+Author - Swayansu Santosh
